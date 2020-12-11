@@ -9,6 +9,12 @@
 
     <title>{{ config('app.name', 'Laravel') }}</title>
 
+    <link
+        rel="icon"
+        href="/images/logo2.png"
+        sizes="32x32"
+    />
+
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}" defer></script>
 
